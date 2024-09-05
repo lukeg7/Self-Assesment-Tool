@@ -1,3 +1,3 @@
-1.) Installed JDK via Oracle website 
-2.) Installed Homebrew via macOS terminal 
-3.) Installed Maven via macOS terminal  
+1.) Installed JDK via Oracle website<br/> 
+2.) Installed Homebrew via macOS terminal<br/> 
+3.) Installed Maven via macOS terminal<br/>  
