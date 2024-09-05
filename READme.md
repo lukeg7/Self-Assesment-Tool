@@ -7,6 +7,6 @@
 
 ### Project Creation 
 1.) Run the Maven Project Generation Command<br/>
-'''bash
+```bash
 mvn archetype:generate -DgroupId=com.example -DartifactId=self-assessment-tool -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
-'''
+```
